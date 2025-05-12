@@ -10,5 +10,6 @@ public class Quest02 {
         farse = sc.nextLine();
         System.out.println(farse.toUpperCase());
         System.out.println(farse.toLowerCase());
+        sc.close();
     }
 }
